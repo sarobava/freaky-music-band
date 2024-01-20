@@ -149,7 +149,7 @@ function Aboutus() {
                   <i className="bi bi-twitter-x"></i>
                 </a>
               </p>{" "}
-              <p class="text-body-secondary font-monospace fs-3 my-2 py-2 social">
+              <p className="text-body-secondary font-monospace fs-3 my-2 py-2 social">
                 Charlotte Tracy{" "}
                 <a
                   href="https://www.facebook.com/"
@@ -170,7 +170,7 @@ function Aboutus() {
                   <i className="bi bi-twitter-x"></i>
                 </a>
               </p>{" "}
-              <p class="text-body-secondary font-monospace fs-3 my-2 py-2 social">
+              <p className="text-body-secondary font-monospace fs-3 my-2 py-2 social">
                 John Campell{" "}
                 <a
                   href="https://www.facebook.com/"
