@@ -1,0 +1,24 @@
+
+.social-link .bi{
+    transition: 0.3s linear;
+}
+
+.social-link .bi:hover{
+    color: #0d40e7;    
+    font-size: large;}
+
+
+
+.social-link-about .bi:hover{ 
+    font-size:medium;
+ 
+}
+
+
+.link{
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+  }
